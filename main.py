@@ -1,7 +1,6 @@
 import sys
 from src.some_storage_library import SomeStorageLibrary
 import os
-import path
 import csv
 
 sys.path.append('src/')
